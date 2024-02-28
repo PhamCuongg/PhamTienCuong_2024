@@ -1,0 +1,57 @@
+.container {
+    margin-top: 50px;
+  }
+
+  
+  .navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: white;
+    border-bottom: 1px solid #ccc;
+    z-index: 1000;
+  }
+  
+  .navbar-item {
+    flex: 1;
+  }
+  
+  .homepage {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  .search-bar input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+    
+  .post {
+    margin-bottom: 30px;
+  }
+  
+  .post h2 {
+    color: #007bff;
+  }
+  
+  .post h3 {
+    color: #28a745;
+  }
+  
+  .post p {
+    color: #333;
+  }
+  
+  .post ul {
+    margin-top: 10px;
+  }
+  
+  .post ul li {
+    color: #6c757d;
+  }
+  
