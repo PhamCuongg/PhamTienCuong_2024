@@ -84,7 +84,6 @@ const HomePage = () => {
             </div>
           )}
           
-          <hr />
         </div>
       ))}
       <div className="pagination">
